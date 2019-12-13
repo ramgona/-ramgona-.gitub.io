@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Ram Surya Gona
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: ""A brief description of yourself.""
   email: rgona@ur.rochester.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
